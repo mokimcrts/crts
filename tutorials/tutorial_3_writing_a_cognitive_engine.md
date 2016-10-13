@@ -22,8 +22,8 @@ sources so that they can be integrated into the ECR code.
 
 \code{.sh}
   $ mkdir CE_Tutorial_3
-  $ cp example_cognitive_engines/CE_Template/CE_Template.cpp CE_Tutorial_3/CE_Tutorial_3.cpp
-  $ cp example_cognitive_engines/CE_Template/CE_Template.hpp CE_Tutorial_3/CE_Tutorial_3.hpp
+  $ cp cognitive_engines/CE_Template/CE_Template.cpp CE_Tutorial_3/CE_Tutorial_3.cpp
+  $ cp cognitive_engines/CE_Template/CE_Template.hpp CE_Tutorial_3/CE_Tutorial_3.hpp
 \endcode
 
 With these two files we will be defining a new class for our cognitive engine.
